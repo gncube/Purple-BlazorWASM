@@ -1,4 +1,4 @@
-using Client;
+using Client.Components;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 
